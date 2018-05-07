@@ -1,4 +1,5 @@
 #MISSION02
+http://vimdoc.sourceforge.net/htmldoc/usr_03.html
 
 ?Tips are prefixed with the `?`
 ?Objectives are prefixed with `!`
@@ -24,5 +25,77 @@
 !Jump to Home, then the Middle then the Last line of the file.
 
 !Activate the ruler(cursor pos) in the bottom right corner.
+
+!This page is long, scroll down half a page at the time.
+!Then come back up to this objective.
+
+!Now scroll a full-page to bot.
+!Then come back up here.
+
+!You know how to move a line at a time, but now scroll down a line at a time.
+
+!How do you see the context of the current cursor-pos!
+!Then, how do you see the top-context?
+!Then, how do you see the bot-context?
+
+!Quickly, forward-lookup the word `Then` without using `/`
+!Then, backwards.
+
+?When you use certain commands it leaves a mark.
+!Go back to a previous mark.
+
+!You can also go forth and back in cursor-history, do that.
+
+?You can also place your own marks in a text(up to 26).
+!Place a mark here, jump to a previous mark, then jump to this mark again.
+
+?You jump paragraphs at a time.
+!Jump up 3 paragraphs then come back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !

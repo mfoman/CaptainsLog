@@ -1,4 +1,5 @@
 #MISSION01
+http://vimdoc.sourceforge.net/htmldoc/usr_02.html
 
 ?Tips are prefixed with the `?`
 ?Objectives are prefixed with `!`
